@@ -1,6 +1,6 @@
 # Springdale Public School Website
 
-This is a React-based website for Springdale Public School. It includes sections for Home, About Us, Academics, Admissions, Faculty, Students, Gallery, and Contact Us. The site is designed with Bootstrap for styling and includes various animations and transitions for an attractive user experience.
+This is a React-based website for Springdale Public School(A Dummy School Just taken for a project). It includes sections for Home, About Us, Academics, Admissions, Faculty, Students, Gallery, and Contact Us. The site is designed with Bootstrap for styling and includes various animations and transitions for an attractive user experience.
 
 ## Table of Contents
 
