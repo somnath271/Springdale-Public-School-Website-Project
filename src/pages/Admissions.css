@@ -1,0 +1,29 @@
+.bg-warning {
+  border-radius: 0.5rem;
+}
+
+.bg-warning h1 {
+  font-size: 2.5rem;
+}
+
+.bg-warning p {
+  font-size: 1.25rem;
+}
+
+.admissions-card {
+  transition: transform 0.3s ease-in-out;
+  background: linear-gradient(135deg, #fddb92 0%, #d1fdff 100%);
+  color: #333;
+}
+
+.admissions-card:hover {
+  transform: scale(1.05);
+}
+
+.admissions-card .card-title {
+  font-size: 1.5rem;
+}
+
+.admissions-card .card-text {
+  font-size: 1.2rem;
+}

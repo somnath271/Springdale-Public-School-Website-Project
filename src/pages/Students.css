@@ -1,0 +1,29 @@
+.bg-primary {
+  border-radius: 0.5rem;
+}
+
+.bg-primary h1 {
+  font-size: 2.5rem;
+}
+
+.bg-primary p {
+  font-size: 1.25rem;
+}
+
+.students-card {
+  transition: transform 0.3s ease-in-out;
+  background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
+  color: #fff;
+}
+
+.students-card:hover {
+  transform: scale(1.05);
+}
+
+.students-card .card-title {
+  font-size: 1.5rem;
+}
+
+.students-card .card-text {
+  font-size: 1.2rem;
+}

@@ -1,0 +1,19 @@
+.bg-danger {
+  border-radius: 0.5rem;
+}
+
+.bg-danger h1 {
+  font-size: 2.5rem;
+}
+
+.bg-danger p {
+  font-size: 1.25rem;
+}
+
+.card {
+  transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}

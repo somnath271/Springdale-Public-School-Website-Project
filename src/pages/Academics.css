@@ -1,0 +1,28 @@
+.academics-container {
+  background-color: #f9f9f9;
+  border-radius: 0.5rem;
+  padding: 2rem;
+}
+
+.section-title {
+  font-size: 2.5rem;
+  color: #cc0066;
+}
+
+.card {
+  background: linear-gradient(135deg, #fddb92 0%, #d1fdff 100%);
+  color: #333;
+  transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card-title {
+  font-size: 1.5rem;
+}
+
+.card-text {
+  font-size: 1.2rem;
+}

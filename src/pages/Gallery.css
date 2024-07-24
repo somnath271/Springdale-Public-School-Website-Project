@@ -1,0 +1,44 @@
+.bg-success {
+  border-radius: 0.5rem;
+}
+
+.bg-success h1 {
+  font-size: 2.5rem;
+}
+
+.bg-success p {
+  font-size: 1.25rem;
+}
+
+.gallery-card {
+  transition: transform 0.3s ease-in-out;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: #fff;
+}
+
+.gallery-card:hover {
+  transform: scale(1.05);
+}
+
+.gallery-card .card-title {
+  font-size: 1.5rem;
+}
+
+.gallery-card .card-text {
+  font-size: 1.2rem;
+}
+
+.embed-responsive-16by9 {
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  position: relative;
+}
+
+.embed-responsive-16by9 iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
